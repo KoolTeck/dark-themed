@@ -598,15 +598,11 @@ footer a::visited{
 
   }
 
-  .brand img {
-    /* top: 15rem; */
-  }
-
   .file-access {
     height: auto;
   }
 
   .hero::after {
-    margin-top: 0rem;
+    top: 15rem;
   }
 }
