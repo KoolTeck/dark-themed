@@ -522,8 +522,12 @@ footer a::visited{
  }
 
    .hero::after {
-    top: 17rem;
-    content: url(./images/bg-curvy-desktop.svg);
+    top: 13.5rem;
+    content: "" ;
+    background-image: url(./images/bg-curvy-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
    }
 
    .display-grid {
@@ -595,10 +599,14 @@ footer a::visited{
   }
 
   .brand img {
-    margin-top: 20px;
+    /* top: 15rem; */
   }
 
   .file-access {
     height: auto;
+  }
+
+  .hero::after {
+    margin-top: 0rem;
   }
 }
