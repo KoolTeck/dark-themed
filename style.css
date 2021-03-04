@@ -144,7 +144,7 @@ nav {
   display: block;
   transition: var(--transition);
   font-weight: 400;
-  padding: 3rem ;
+  padding: 4rem ;
  }
 
  .show-link{
