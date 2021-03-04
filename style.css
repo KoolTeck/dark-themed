@@ -582,6 +582,7 @@ footer a::visited{
 
   .subscribe {
     width: 85%;
+    margin-bottom: 2rem;
   }
 
   .form-group .btn {
@@ -590,5 +591,14 @@ footer a::visited{
 
   footer {
     z-index: -1;
+
+  }
+
+  .brand img {
+    margin-top: 20px;
+  }
+
+  .file-access {
+    height: auto;
   }
 }
