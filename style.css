@@ -74,7 +74,7 @@ h4 {
 
 .btn {
  text-transform: capitalize;
- background-color: var(--blue);
+ background-color: var(--Cyan);
  color: var(--clear-white);
  padding: .75rem;
  letter-spacing: var(--spacing);
@@ -92,7 +92,7 @@ h4 {
 }
 
 .btn:hover {
- background: var(--Cyan);
+ background: var(--blue);
 }
 
 
@@ -308,7 +308,7 @@ nav {
 }
 
 .stay-productive a {
-  color: var(--blue);
+  color: var(--Cyan);
   text-decoration: underline;
 }
 
